@@ -1,5 +1,5 @@
 import React from 'react'; 
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { PageContainer } from './components/PageContainer';
 import { LoginPage } from './pages/LoginPage/LoginPage';
 
@@ -7,7 +7,7 @@ export const App = () => (
   <Router>
       <div className="App">
           <Routes>
-              <Route path="" element={<LoginPage />} />
+              <Route path="/" element={<LoginPage />} />
               <Route path="/login" element={<LoginPage />}/>
               <Route
                   path="/register"
