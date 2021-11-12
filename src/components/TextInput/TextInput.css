@@ -1,0 +1,43 @@
+.TextInput {
+    position: relative;
+    display: flex;
+
+    min-width: 252px;
+
+    padding: 16px;
+    border: 1px solid transparent;
+    background: linear-gradient(0deg, #E6EEF8, #E6EEF8), #CFD8DC;
+    box-shadow: inset -4px -4px 12px rgba(253, 255, 255, 0.8), inset 4px 4px 12px rgba(187, 195, 206, 0.6);
+    border-radius: 16px;
+
+    font-weight: 700;
+    color: var(--main-text-color);
+}
+
+.TextInput__input {
+    width: 100%;
+    background: linear-gradient(0deg, #E6EEF8, #E6EEF8), #CFD8DC;
+}
+
+.TextInput__error {
+    border: 1px solid var(--error-text-color);
+}
+
+.TextInput__input.TextInput__input-password {
+    width: calc(100% - 32px);
+}
+
+.TextInput__input::placeholder {
+    font-weight: 700;
+    color: var(--input-text-color);
+}
+
+i {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+}
+
+i:hover {
+    cursor: pointer;
+}

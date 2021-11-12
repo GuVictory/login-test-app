@@ -1,0 +1,8 @@
+.PageContainer {
+    display: flex;
+
+    width: calc(100% - 2 * 24px);
+    height: calc(100% - 2 * 24px);
+
+    padding: 24px;
+}

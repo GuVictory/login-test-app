@@ -1,0 +1,18 @@
+.Card {
+    width: max-content;
+    height: max-content;
+
+    padding: 24px;
+
+    border-radius: 16px;
+    background: linear-gradient(0deg, #E6EEF8, #E6EEF8), #CFD8DC;
+    box-shadow: -16px -16px 40px var(--card-shadow-color-1), 16px 16px 40px var(--card-shadow-color-2);
+}
+
+.Card-full {
+    width: 100%;
+}
+
+.Card-feat {
+    width: max-content;
+}
