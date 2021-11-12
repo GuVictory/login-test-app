@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/login-test-app/static/css/main.546ea924.chunk.css",
-    "main.js": "/login-test-app/static/js/main.4d5dfb69.chunk.js",
-    "main.js.map": "/login-test-app/static/js/main.4d5dfb69.chunk.js.map",
+    "main.js": "/login-test-app/static/js/main.06d8739f.chunk.js",
+    "main.js.map": "/login-test-app/static/js/main.06d8739f.chunk.js.map",
     "runtime-main.js": "/login-test-app/static/js/runtime-main.4f0ef41c.js",
     "runtime-main.js.map": "/login-test-app/static/js/runtime-main.4f0ef41c.js.map",
-    "static/js/2.5f715e09.chunk.js": "/login-test-app/static/js/2.5f715e09.chunk.js",
-    "static/js/2.5f715e09.chunk.js.map": "/login-test-app/static/js/2.5f715e09.chunk.js.map",
+    "static/js/2.cc4b1880.chunk.js": "/login-test-app/static/js/2.cc4b1880.chunk.js",
+    "static/js/2.cc4b1880.chunk.js.map": "/login-test-app/static/js/2.cc4b1880.chunk.js.map",
     "index.html": "/login-test-app/index.html",
     "static/css/main.546ea924.chunk.css.map": "/login-test-app/static/css/main.546ea924.chunk.css.map",
-    "static/js/2.5f715e09.chunk.js.LICENSE.txt": "/login-test-app/static/js/2.5f715e09.chunk.js.LICENSE.txt"
+    "static/js/2.cc4b1880.chunk.js.LICENSE.txt": "/login-test-app/static/js/2.cc4b1880.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f0ef41c.js",
-    "static/js/2.5f715e09.chunk.js",
+    "static/js/2.cc4b1880.chunk.js",
     "static/css/main.546ea924.chunk.css",
-    "static/js/main.4d5dfb69.chunk.js"
+    "static/js/main.06d8739f.chunk.js"
   ]
 }
